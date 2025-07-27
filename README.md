@@ -16,7 +16,7 @@ cd NAME-OF-MY-REPO
 ---
 ## 2. Create virtual environment
 
-### Run these in anaconda prompt
+Run these in anaconda prompt
 - This will set up a virtual environment to avoid conflicting dependencies (optional, but recommended):
 ```
 conda create -n clean_env python=3.11
@@ -25,7 +25,7 @@ conda activate clean_env
 ```
 ---
 ## 3. Download and run jupyter notebooks (if not installed)
-### Run these in anaconda prompt
+Run these in anaconda prompt
 - This will download jupyter notebooks and some of my common libraries:
 ``` 
 conda install notebook jupyterlab numpy pandas matplotlib scikit-learn
