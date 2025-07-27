@@ -4,7 +4,7 @@ This is a simple walkthrough of how to run jupyter notebooks if you've never ins
 ### Requirements for this walkthrough:
 - This tutorial uses Anaconda for most of the steps. If you don't have anaconda installed, there are equivalent terminal comnmands you can run but they arent listed here.
 - To download the anaconda installer:  https://www.anaconda.com/products/distribution 
-
+---
 ## 1. Clone (or download) repo
 First, clone the repo to your local machine (run these in terminal)
 - *__Note:__* replace `NAME-OF-MY-REPO` with the name of the repo that you want to clone
@@ -16,7 +16,8 @@ cd NAME-OF-MY-REPO
 ---
 ## 2. Create virtual environment
 
-### Run these in anaconda prompt to set up a virtual environment (optional, but recommended):
+### Run these in anaconda prompt
+- This will set up a virtual environment to avoid conflicting dependencies (optional, but recommended):
 ```
 conda create -n clean_env python=3.11
 
@@ -24,7 +25,8 @@ conda activate clean_env
 ```
 ---
 ## 3. Download and run jupyter notebooks (if not installed)
-### Run these in anaconda prompt to download jupyter notebooks and common libraries:
+### Run these in anaconda prompt
+- This will download jupyter notebooks and some of my common libraries:
 ``` 
 conda install notebook jupyterlab numpy pandas matplotlib scikit-learn
 
