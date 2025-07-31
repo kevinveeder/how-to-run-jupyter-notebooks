@@ -2,6 +2,9 @@
 
 This guide will walk you through everything you need to clone repositories and run Jupyter notebooks, even if you've never used them before.
 
+## So what is a Jupyter Notebook?** 
+A jupyter notebook (.ipynb file) is an interactive document where you can write code, see results instantly, add notes and explanations, and share your work - all in one convenient place.
+
 ## What You'll Need
 
 Before starting, make sure you have:
