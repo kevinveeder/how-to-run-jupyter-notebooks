@@ -1,7 +1,4 @@
-# how-to-run-jupyter-notebooks
-This is a simple walkthrough of how to run jupyter notebooks if you've never installed it before. 
-
-# Complete Guide: Running Jupyter Notebooks
+# Beginner's Guide: Running Jupyter Notebooks
 
 This guide will walk you through everything you need to clone repositories and run Jupyter notebooks, even if you've never used them before.
 
