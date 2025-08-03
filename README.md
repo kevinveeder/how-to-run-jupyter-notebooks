@@ -142,8 +142,6 @@ Once you have Jupyter running:
 - Save your work with `Ctrl + S` (or `Cmd + S` on Mac)
 - Create new cells with the "+" button or Insert menu
 
-Happy coding! 🚀
-
 ---
 
 **Need help?** If you run into issues, feel free to reach out (contact info on [readme](https://github.com/kevinveeder/kevinveeder)) or check the [Jupyter documentation](https://jupyter.org/documentation).
