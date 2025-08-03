@@ -40,17 +40,6 @@ pip install -r requirements.txt
 python <python_script>
 ```
 
-## Example Workflow
-
-```bash
-git clone https://github.com/username/my-awesome-project
-cd my-awesome-project
-python -m venv new_env
-new_env/Scripts/activate
-pip install -r requirements.txt
-python main.py
-```
-
 ## Troubleshooting
 
 - **If you get a "python not recognized" error:** Make sure Python is added to your system PATH
