@@ -72,7 +72,6 @@ Data Scientist with M.S. in Data Science (4.0 GPA) and proven experience buildin
 - Coordinate data-driven security initiatives across team of 5 detection engineers managing 12+ security tools
 - Translate complex technical cybersecurity concepts into actionable insights for C-level stakeholders
 - Lead cross-functional projects ensuring alignment between technical teams and business objectives
-- Developed automated BigQuery solutions improving incident response time by 40%
 - Drive operational efficiency through data analysis and process automation
 
 ### **General Motors** – *Chandler, AZ*
