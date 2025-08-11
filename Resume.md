@@ -18,7 +18,7 @@ Data Scientist with M.S. in Data Science (4.0 GPA) and proven experience buildin
 
 **Programming & Development:** Python, R, SQL, JavaScript, Java, BigQuery
 
-**ML Libraries & Frameworks:** TensorFlow, Keras, PyTorch, scikit-learn, pandas, NumPy, spaCy, NLTK, langchain, ollama, OpenAI API
+**ML Libraries & Frameworks:** TensorFlow, Keras, PyTorch, scikit-learn, pandas, NumPy, spaCy, NLTK, langchain, ...
 
 **Data Visualization:** Tableau, Matplotlib, Seaborn, Power BI, Plotly
 
