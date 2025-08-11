@@ -32,16 +32,17 @@ Data Scientist with M.S. in Data Science (4.0 GPA) and proven experience buildin
 
 ## **Featured Projects**
 
-### **NFL Fantasy Football Draft Board Generator (CSV file output)** | [GitHub](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2)
+### **NFL Fantasy Football Draft Predictor** | [GitHub Repository](https://github.com/kevinveeder/nfl-fantasy-predictor-pt2)
 
 **Technologies:** Python, XGBoost, Optuna, scikit-learn, pandas, BeautifulSoup, FantasyPros API
 
-- Built XGBoost ML model with automated hyperparameter optimization using Optuna, achieving 33% improvement over baseline (MAE: 2.8 vs 4.2)
-- Engineered 20+ advanced features including efficiency metrics (yards/carry, catch rate), usage patterns (targets/game), and position-specific variables using 10 years of NFL data (2015-2024)
-- Implemented robust evaluation pipeline with 5-fold cross-validation, achieving R² of 0.73 and comprehensive feature importance analysis
-- Developed automated data scraping pipeline integrating real-time FantasyPros projections with historical NFL statistics
-- Created position-aware modeling with sophisticated feature scaling and validation protecting against overfitting
-- **Business Impact:** Delivers actionable draft recommendations with 62% accuracy improvement, identifying undervalued players and optimizing fantasy lineup construction
+- Developed XGBoost ML model with Optuna hyperparameter optimization, achieving 33% improvement over baseline (MAE: 2.8 vs 4.2) and R² of 0.73
+- Engineered 20+ advanced features including efficiency metrics (yards/carry, catch rate), usage patterns (targets/game), and position-specific variables from 10 years of NFL data (2015-2024)
+- Implemented robust 5-fold cross-validation pipeline with feature importance analysis, revealing target share and usage metrics as primary performance drivers
+- Built automated data pipeline integrating FantasyPros real-time projections with historical NFL statistics for QB, RB, WR, and TE positions
+- Created position-aware modeling with StandardScaler feature scaling and comprehensive evaluation metrics (MAE, RMSE, R²)
+- *Impact:* Delivers 62% accuracy improvement over traditional approaches, generating actionable CSV draft recommendations for optimal fantasy lineup construction
+RetryClaude can make mistakes. Please double-check cited sources.
 
 ### **Advanced NLP Sentiment Analysis System** *(Academic Project)*
 
